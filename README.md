@@ -2,5 +2,7 @@
 Florian LECLERCQ - Théo LHOTELLIER - François LOSFELD
 
 "C" ajoute un cube dans le cercle
+
 "Y" ajoute un cylindre dans le cercle
+
 "S" ajoute une sphère dans le cercle
